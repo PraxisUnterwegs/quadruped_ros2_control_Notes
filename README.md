@@ -89,6 +89,8 @@ Please use **C++ Simulation** in this [Mujoco Simulation](https://github.com/leg
     ros2 run keyboard_input keyboard_input
     ```
 
+    控制的命令在commands/keyboard_input中的README.md中可以找到。
+
 ![gazebo classic](.images/gazebo_classic.png)
 
 
